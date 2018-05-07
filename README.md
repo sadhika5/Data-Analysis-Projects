@@ -28,3 +28,9 @@ These projects contain lots of comments showing my thought process and what I pe
 <sub>Concepts explored: pandas, matplotlib.pyplot, data cleaning, string manipulation, bar plots</sub>
 
 <sup>Functions, methods, and properties used:  .read_csv(), .columns, notnull, map(), .dtypes, .rename, astype(), .mean(), .sum(), .xlabel(), .ylabel()</sup>
+
+### Project #5: [Project_ Transforming data with Python](https://github.com/sadhika5/Data-Analysis-Projects/tree/master/Project_%20Transforming%20data%20with%20Python)
+<sub>Concepts explored: pandas,  data cleaning, string manipulation </sub>
+
+<sup>Functions, methods, and properties used:  .read_csv(), .columns, .value_counts(),.dateutil.parser </sup>
+
